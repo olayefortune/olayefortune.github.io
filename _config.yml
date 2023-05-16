@@ -3,9 +3,7 @@ logo: "WhatsApp Image 2023-02-04 at 23.41.43.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   A certified data analyst and scientist with proficiency in python and SQL programming language. Utilize technical tools, packages and software to visualize insights from BIGDATA and make prediction using machine learning models. 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ize-hiuwa-olaye-fortune-a609441bb/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
