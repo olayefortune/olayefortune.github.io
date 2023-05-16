@@ -5,7 +5,7 @@
 ### Data Science 
 
 [Who is Diabetic? Pima Indians Diabetes Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="my first viz.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Who is Diabetic? Pima Indians Diabetes Analysis]([http://example.com/](https://medium.com/@olayefortune99/pima-indian-diabetes-analysis-and-outcome-prediction-7c748f6c9f0b))
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
